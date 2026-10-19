@@ -1,11 +1,9 @@
-# APP-test1
+# ✔APP-test1
 *just for test repo ^^*
 
 
 ----------------------------------
 
-
-# 👋 APP-test1
 
 > **My first GitHub repository**
 
